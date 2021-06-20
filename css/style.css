@@ -1,0 +1,39 @@
+header{
+
+}
+.container {
+     overflow: hidden;
+     width: 90%;
+     border: 1px solid red;
+}    margin: 0 auto;
+
+.logo {
+     float: left;
+     width: 10%;
+     border: 1px solid;
+
+}
+.logo img{ 
+     width:10% ;
+
+}
+
+.menu {
+     float:right;
+     width: 50%;
+     border: 1px solid;
+}
+.menu ui{}
+
+.menu ui li{
+     list-style: none;
+     float: left;   
+}
+.menu ui li a{
+     text-decoration: none;
+     margin: 0px 15px;
+     display: inline-block;
+     font-size: 18px;  
+     text-transform: capitalize;
+}
+.menu ui li a:hover{}
